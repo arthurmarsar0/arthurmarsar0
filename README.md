@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💻 About me:
 
 <!--
 **arthurmarsar0/arthurmarsar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on Apple Developer Academy - UFPE
+🌱 I’m currently learning SwiftUI
+😄 Pronouns: he/his
 
 <div>
 <a href="https://github.com/arthurmarsar0">
