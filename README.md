@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ⚙️ Tech Stack:
+
+### Programming Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
 <div>
 <a href="https://github.com/arthurmarsar0">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarsar0&layout=compact&langs_count=7&theme=swift"/>
