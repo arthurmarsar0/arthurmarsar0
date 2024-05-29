@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Apple Developer Academy - UFPE
-🌱 I’m currently learning SwiftUI
-😄 Pronouns: he/his
+#🔭 I’m currently working on Apple Developer Academy - UFPE
+#🌱 I’m currently learning SwiftUI
+#😄 Pronouns: he/his
 
 <div>
 <a href="https://github.com/arthurmarsar0">
