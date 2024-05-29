@@ -1,5 +1,10 @@
 # 💻 About me:
 🔭 I’m currently working on Apple Developer Academy - UFPE<br>🌱 I’m currently learning SwiftUI<br>😄 Pronouns: he/his<br>
+
+### 👤 Social: 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arthurmarsaro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-marsaro-87a486230)
+
 <!--
 **arthurmarsar0/arthurmarsar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
