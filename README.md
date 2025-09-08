@@ -1,5 +1,5 @@
 # 💻 About me:
-🔭 I’m currently working on Apple Developer Academy - UFPE<br>🌱 I’m currently learning SwiftUI<br>😄 Pronouns: he/his<br>
+I’m currently studying in France at Grenoble INP - Esisar<br>Pronouns: he/his<br>
 
 ### 👤 Social: 
 [![GMail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](aam4@cin.ufpe.br)
